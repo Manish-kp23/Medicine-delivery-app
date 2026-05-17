@@ -1,0 +1,8 @@
+{
+  "name": "MedFlash - Medicine Delivery",
+  "description": "Full-stack medicine delivery platform with search, cart, orders, and admin dashboard.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
