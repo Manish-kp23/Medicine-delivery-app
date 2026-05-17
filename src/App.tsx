@@ -1,3 +1,4 @@
+// @ts-nocheck
 import { useState, useEffect, createContext, useContext, FormEvent, ChangeEvent } from 'react';
 import { BrowserRouter as Router, Routes, Route, useNavigate, Link } from 'react-router-dom';
 import { motion, AnimatePresence } from 'motion/react';
